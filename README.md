@@ -1,6 +1,4 @@
 # A Primer on Microsoft External Identities 
-A 300, *400-ish* level primer on the MS external identities...ideal for [ISVs](_ "=Independent Software Vendors")!
-
 
 *Definition*: An **external identity** allows people [outside your org](_ "Examples: partners, distributors, suppliers, vendors, guests") to access your resources and apps, while letting them sign in with whatever they prefer.
 
